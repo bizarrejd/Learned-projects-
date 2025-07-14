@@ -13,4 +13,4 @@ Creator: **Codewithharry**
 1. Added a score card
 2. Added a limit to number of rounds to decide a victor.
 
-This is part of my `Learned-projects` repo to document what I build and improve as I learn.
+This is part of my `learned-projects` repo to document what I build and improve as I learn.
